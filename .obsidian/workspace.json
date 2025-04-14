@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "2ce1ba1163514811",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c841e85e16e8a4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7da78466ed019be8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12. 工作汇报/2025-04-03/KAG/OpenSPG/OpenSPG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OpenSPG"
+            }
+          },
+          {
+            "id": "e712030627cc5dbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12. 工作汇报/2025-04-03/KAG/KAG 医疗实战.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KAG 医疗实战"
+            }
+          },
+          {
+            "id": "92eaecab3834b147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12. 工作汇报/2025-04-03/KAG/KAG论文导读/KAG论文导读.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KAG论文导读"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e93b499023999beb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bfc97ac17c847eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa84521fe4c8f93d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bbe0dd99bde924fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "31d79d72835da074",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "00d51462b592d9a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "45171773647f8e9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96d6c57447301f2d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "12. 工作汇报/2025-04-03/新闻/Maxun/1.Maxun.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1.Maxun"
+            }
+          },
+          {
+            "id": "cba4d436ddff4146",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "12. 工作汇报/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "a5aa1601f289cc24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f7b2453830cd99c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "12. 工作汇报/2025-04-03/新闻/Maxun/1.Maxun.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1.Maxun"
+            }
+          },
+          {
+            "id": "5da32099ddd7909e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "92eaecab3834b147",
+  "lastOpenFiles": [
+    "10. LLM实战/差旅费文档新/住宿费-new.md",
+    "10. LLM实战/差旅费文档新/伙食补助费-new.md",
+    "12. 工作汇报/2025-04-10/1. Dify-Ragflow知识库检索Api优化/Ragflow知识库检索工具优化.md",
+    "12. 工作汇报/2025-04-10/2. Ragflow",
+    "12. 工作汇报/Untitled.md",
+    "12. 工作汇报/2025-04-03/KAG/KAG论文导读/KAG-1.深入理解LLMFriSPG.md",
+    "12. 工作汇报/2025-04-10/1. Dify-Ragflow知识库检索Api优化",
+    "12. 工作汇报/2025-04-10",
+    "12. 工作汇报/2025-04-03/KAG/KAG论文导读/KAG论文导读.md",
+    "12. 工作汇报/2025-04-03/KAG/KAG汇报.md",
+    "12. 工作汇报/2025-04-03/KAG/KAG 医疗实战.md",
+    "12. 工作汇报/2025-04-03/KAG/语义增强可编程知识图谱.v1.0.pdf",
+    "12. 工作汇报/2025-04-03/browser-use/Browser-use.md",
+    "12. 工作汇报/2025-04-03/新闻/Maxun/Maxun.md",
+    "12. 工作汇报/2025-04-03/新闻/抓取新闻工作流.md",
+    "12. 工作汇报/2025-04-03/KAG/KAG论文导读/KAG-2.深入理解相互索引.md",
+    "12. 工作汇报/2025-04-03/KAG/OpenSPG/OpenSPG.md",
+    "12. 工作汇报/2025-04-03/2025-04-03汇报.zip",
+    "12. 工作汇报/2025-04-03/2025-04-03灰白.zip",
+    "12. 工作汇报/2025-04-03/归档.zip",
+    "12. 工作汇报/2025-04-03/browser-use/browser-use帮助文档.md",
+    "12. 工作汇报/2025-04-03/KAG/KAG介绍.md",
+    "12. 工作汇报/2025-04-03/browser-use/assets/Browser-use/file-20250403095144688.png",
+    "12. 工作汇报/2025-04-03/KAG/对知识图谱的思考.md",
+    "12. 工作汇报/2025-04-03/KAG/知识增强KAG框架与垂域应用.pdf",
+    "12. 工作汇报/2025-04-03/新闻/assets/抓取新闻工作流/file-20250403085400206.png",
+    "12. 工作汇报/2025-04-03/新闻/assets/抓取新闻工作流",
+    "12. 工作汇报/2025-04-03/新闻/assets",
+    "12. 工作汇报/2025-04-03/browser-use/assets/Browser-use/file-20250402112914138.png",
+    "12. 工作汇报/2025-04-03/browser-use/assets/Browser-use/file-20250402111716385.png",
+    "12. 工作汇报/2025-04-03/browser-use/assets/Browser-use/file-20250401134823047.png",
+    "12. 工作汇报/2025-04-03/新闻/Maxun/assets/Maxun/file-20250401093905601.png",
+    "12. 工作汇报/2025-04-03/新闻/Maxun/assets/Maxun/file-20250401093724694.png",
+    "12. 工作汇报/2025-04-03/新闻/Maxun/assets/Maxun/file-20250401093712725.png",
+    "12. 工作汇报/2025-04-03/新闻/Maxun/assets/Maxun/file-20250401091710250.png",
+    "12. 工作汇报/2025-04-03/新闻/Maxun/assets/Maxun/file-20250401085838845.png",
+    "4. RAG/KAG.md/LLM/RAG/KAG.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "4. RAG/KAG.md/topics/OpenSPG.md",
+    "Untitled mindmap.md",
+    "12. 工作汇报/2025-04-03/KAG/KAG论文导读/深入理解LLMFriSPG_优化版.md",
+    "README.md"
+  ]
+}

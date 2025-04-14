@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<UrbanTraffic>
+    <Title>城市间交通费</Title>
+    <Remark>乘坐飞机、火车、轮船、客车等公共交通工具，已由医院统一购买公共交通意外险的出差人员不需再按票次重复购买，不得再单独报销保险费；学生、临时聘用人员、外请专家等未统一购买公共交通意外保险的人员出差，每人次可以购买交通意外保险一份，每份不得超过30元。不含出租车、过路过桥费。</Remark>
+    <Node>
+        <Content>火车（含高铁、动车、全软席列车）</Content>
+        <ZGZC>软席（软座、软卧），高铁/动车一等座，全软席列车一等软座</ZGZC>
+        <FGZC>硬席（硬座、硬卧），高铁/动车二等座，全软席列车二等软座</FGZC>
+        <Other>硬席（硬座、硬卧），高铁/动车二等座，全软席列车二等软座</Other>
+    </Node>
+    <Node>
+        <Content>轮船（不含旅游船）</Content>
+        <ZGZC>二等舱</ZGZC>
+        <FGZC>三等舱</FGZC>
+        <Other>三等舱</Other>
+    </Node>
+    <Node>
+        <Content>飞机</Content>
+        <ZGZC>经济舱按实报销</ZGZC>
+        <FGZC>经济舱按实报销</FGZC>
+        <Other>经济舱按实报销</Other>
+    </Node>
+    <Node>
+        <Content>其他交通工具</Content>
+        <ZGZC></ZGZC>
+        <FGZC></FGZC>
+        <Other>凭票据报销（不包括出租小汽车）</Other>
+    </Node>
+</UrbanTraffic>
